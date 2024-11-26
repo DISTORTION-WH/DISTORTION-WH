@@ -23,9 +23,9 @@
 </div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8qkl2p2uxytik2448eg03e696&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=844eb1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8qkl2p2uxytik2448eg03e696&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8qkl2p2uxytik2448eg03e696&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=844eb1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8qkl2p2uxytik2448eg03e696&redirect=true)
 
-<h4 align="center">
+<h4 align="left">
   <a href="https://github.com/DISTORTION-WH?tab=repositories" title="Show Repositories">🔎 Show Repos 🔍</a>
 </h4>
 
